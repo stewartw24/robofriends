@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//github.com/stewartw24/robofriends/static/css/main.a889f2a6.chunk.css",
+    "main.js": "//github.com/stewartw24/robofriends/static/js/main.346f8b22.chunk.js",
+    "main.js.map": "//github.com/stewartw24/robofriends/static/js/main.346f8b22.chunk.js.map",
+    "runtime-main.js": "//github.com/stewartw24/robofriends/static/js/runtime-main.0f676a2b.js",
+    "runtime-main.js.map": "//github.com/stewartw24/robofriends/static/js/runtime-main.0f676a2b.js.map",
+    "static/css/2.66b7f74f.chunk.css": "//github.com/stewartw24/robofriends/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.2b73e027.chunk.js": "//github.com/stewartw24/robofriends/static/js/2.2b73e027.chunk.js",
+    "static/js/2.2b73e027.chunk.js.map": "//github.com/stewartw24/robofriends/static/js/2.2b73e027.chunk.js.map",
+    "index.html": "//github.com/stewartw24/robofriends/index.html",
+    "precache-manifest.faaf6b6f3332c3deb0a23ef2a08da5b1.js": "//github.com/stewartw24/robofriends/precache-manifest.faaf6b6f3332c3deb0a23ef2a08da5b1.js",
+    "service-worker.js": "//github.com/stewartw24/robofriends/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "//github.com/stewartw24/robofriends/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.a889f2a6.chunk.css.map": "//github.com/stewartw24/robofriends/static/css/main.a889f2a6.chunk.css.map",
+    "static/js/2.2b73e027.chunk.js.LICENSE.txt": "//github.com/stewartw24/robofriends/static/js/2.2b73e027.chunk.js.LICENSE.txt",
+    "static/media/App.css": "//github.com/stewartw24/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f676a2b.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.2b73e027.chunk.js",
+    "static/css/main.a889f2a6.chunk.css",
+    "static/js/main.346f8b22.chunk.js"
+  ]
+}
